@@ -1,3 +1,3 @@
 # Profiles REST API 
 
-Profiles REST API using Python Django.
+Profiles REST API using Python Django REST-Framework.
